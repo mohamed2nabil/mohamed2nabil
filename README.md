@@ -8,8 +8,8 @@ These are some of the major technologies that I use or have worked on:
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-|--|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+|--|--|--|--|--|
 
 **Data Analysis & Machine Learning**
 
@@ -18,7 +18,7 @@ These are some of the major technologies that I use or have worked on:
 
 **Automation & Workflow**
 
-<img title="n8n" alt="n8n" width="40px" src="https://docs.n8n.io/assets/images/n8n-logo.png">|<img title="Python Automation" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img title="n8n" alt="n8n" width="40px" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">|<img title="Python Automation" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
 |--|--|
 
 **Web Development**
@@ -51,13 +51,13 @@ These are some of the major technologies that I use or have worked on:
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed2nabil&show_icons=true&theme=radical&include_all_commits=true">
 
 <br>
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/YOUR_KAGGLE/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>|<a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"></a>
+<a href="https://www.linkedin.com/in/mohamed-nabil-41047a223"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/YOUR_KAGGLE/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>|<a href="mailto:mohamed2nabil5@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"></a>
 |--|--|--|
 
 ### Here is a random meme for you, to make your day better
